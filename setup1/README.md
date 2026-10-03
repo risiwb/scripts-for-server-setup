@@ -34,4 +34,3 @@ Log out and back in, or run `source ~/.bashrc`, to activate Atuin.
 ## Notes
 
 - Safe to rerun.
-- Never commit secrets (tokens, passwords, tunnel credentials) to this repo.
