@@ -5,7 +5,7 @@ Base setup script for a fresh Debian/Ubuntu server.
 ## Usage
 
 ```bash
-curl -fsSL https://github.com/risiwb/scripts-for-server-setup/blob/main/setup1/setup.sh -o setup.sh
+curl -fsSL https://github.com/risiwb/scripts-for-server-setup/main/setup1/setup.sh -o setup.sh
 sudo bash setup.sh
 ```
 
