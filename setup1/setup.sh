@@ -3,7 +3,7 @@ set -e
 
 apt-get update
 apt-get upgrade -y
-apt-get install -y curl git python3 python3-venv python3-pip ufw htop sqlite3 ca-certificates
+apt-get install -y openssh-server curl git python3 python3-venv python3-pip ufw htop sqlite3 ca-certificates
 
 ufw allow OpenSSH
 ufw --force enable
